@@ -1,8 +1,8 @@
-Sci10 - bølgeformel
+# Sci10 - project
 
-Author: Nikolaj Brask-Nielsen
-Alias: Nikcio
-Date: May 2018
+* Author: Nikolaj Brask-Nielsen
+* Alias: Nikcio
+* Date: May 2018
 
 This project was created in collabration with my partner Victor.
 
