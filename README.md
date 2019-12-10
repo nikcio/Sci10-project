@@ -11,7 +11,8 @@ introduce some of the basic concepts of coding. One of the requriement
 the project faced was that it should include something that was
 science related. We, therefore, decied to make a simplistic program
 which would calculate the remaining number in the formula to calculate
-wave speed: Lambda * freqency = velocity.
+wave speed: 
+- Lambda * freqency = velocity.
 
 To teach our fellow classmates about coding we created small challenges.
 This was done by making the full program and then remove or replace
