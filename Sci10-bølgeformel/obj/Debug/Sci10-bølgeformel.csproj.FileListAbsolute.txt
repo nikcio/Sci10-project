@@ -1,0 +1,7 @@
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\bin\Debug\Sci10-bølgeformel.exe.config
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\bin\Debug\Sci10-bølgeformel.exe
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\bin\Debug\Sci10-bølgeformel.pdb
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\obj\Debug\Sci10-bølgeformel.csprojResolveAssemblyReference.cache
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\obj\Debug\Sci10-bølgeformel.csproj.CoreCompileInputs.cache
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\obj\Debug\Sci10-bølgeformel.exe
+C:\Users\Nikcio\source\repos\Sci10-bølgeformel\Sci10-bølgeformel\obj\Debug\Sci10-bølgeformel.pdb
