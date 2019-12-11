@@ -4,6 +4,8 @@
 * Alias: Nikcio
 * Date: May 2018
 
+DISCLAIMER: All assignments and console text are written in danish.
+
 This project was created in collaboration with my partner Victor.
 
 The goal of this project was to teach our classmates about coding and introduce some of the basic concepts of coding. One of the requirements the project faced was that it should include something science-related. We, therefore, decided to make a simplistic program that would calculate the remaining number in the formula to calculate wave speed: 

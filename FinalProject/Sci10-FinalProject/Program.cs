@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sci10_bølgeformel
+namespace Sci10_FinalProject
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Program 001");
@@ -141,9 +141,7 @@ namespace Sci10_bølgeformel
                 Console.WriteLine("Facit: " + Bølgelængde + "(" + Lamda + ")" + " * " + Frekvens + "(f)" + " = " + Fart + "(v)");
             }
 
-
         END:;
         }
     }
 }
-

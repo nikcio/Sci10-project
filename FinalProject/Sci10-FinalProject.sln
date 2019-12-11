@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2027
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sci10-bølgeformel", "Sci10-bølgeformel\Sci10-bølgeformel.csproj", "{DED41C12-5F41-4495-B392-4A50469FE621}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sci10-FinalProject", "Sci10-bølgeformel\Sci10-FinalProject.csproj", "{DED41C12-5F41-4495-B392-4A50469FE621}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

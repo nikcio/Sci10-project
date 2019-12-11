@@ -1,0 +1,6 @@
+D:\GitRepo\Sci10-project\Sci10-bølgeformel\bin\Debug\Sci10-bølgeformel.exe.config
+D:\GitRepo\Sci10-project\Sci10-bølgeformel\bin\Debug\Sci10-bølgeformel.exe
+D:\GitRepo\Sci10-project\Sci10-bølgeformel\bin\Debug\Sci10-bølgeformel.pdb
+D:\GitRepo\Sci10-project\Sci10-bølgeformel\obj\Debug\Sci10-FinalProject.csprojAssemblyReference.cache
+D:\GitRepo\Sci10-project\Sci10-bølgeformel\obj\Debug\Sci10-bølgeformel.exe
+D:\GitRepo\Sci10-project\Sci10-bølgeformel\obj\Debug\Sci10-bølgeformel.pdb
